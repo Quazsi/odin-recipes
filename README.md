@@ -1,2 +1,2 @@
 # odin-recipes
-Project: Recipes
+This project is creating individual recipe pages and linking them togther
